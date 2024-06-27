@@ -1,0 +1,26 @@
+.header {
+  background-color: #64615c;
+  color: #fff;
+  margin: 0;
+}
+.footer {
+  background-color: grey;
+  color: #fff;
+}
+.mainContent {
+  height: 74vh;
+  background-color: #eeeef5;
+}
+nav ul {
+  margin-left: auto;
+}
+nav ul li {
+  margin: 0 15px;
+}
+.productList{
+  width: 23%;
+}
+img{
+  width: 10em;
+  height: 10em;
+}
